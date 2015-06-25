@@ -21,7 +21,7 @@
         <language>en-us</language>
         <itunes:explicit>no</itunes:explicit>
         <copyright>Do what you want...</copyright>
-        <itunes:image href="https://dl.dropboxusercontent.com/u/".$dropboxID."/".$path."/later.png" />
+        <itunes:image href="https://dl.dropboxusercontent.com/u/'.$dropboxID.'/'.$path.'/later.png" />
         <itunes:category text="Video" />';
  
     // we'll keep all videos in an associative array 
